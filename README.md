@@ -64,9 +64,7 @@ Os templates de e-mail (HTML) ficam localizados em `src/main/resources/templates
 
 ## Testes
 
-```bash
-./gradlew test
-```
+A implementar..
 
 ## CI/CD
 
