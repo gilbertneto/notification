@@ -76,3 +76,8 @@ O repositório possui pipeline configurada em `.github/workflows`, executando bu
 - [ ] Adicionar suporte a outros canais de notificação (SMS, push, webhook)
 - [ ] Adicionar fila de mensagens para reprocessamento de envios com falha
 - [ ] Adicionar Dockerfile e instruções de execução via container
+
+## Ecossistema Relacionado 
+- https://github.com/gilbertneto/user
+- https://github.com/gilbertneto/task-scheduler
+- https://github.com/gilbertneto/bff-task-scheduler
