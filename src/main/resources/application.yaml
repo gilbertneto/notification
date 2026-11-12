@@ -2,8 +2,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username:
-    password:
+    username: gilbertoneto93@gmail.com
+    password: luuj yayd dcaw pfqc
     protocol: smtp
     properties:
       mail:
@@ -24,7 +24,7 @@ spring:
 
 envio:
   email:
-    remetente:
+    remetente: gilbertoneto93@gmail.com
     nomeRemetente: 'Gilberto Neto'
 
 server:
